@@ -23,8 +23,8 @@ The **Electronic Health Record (EHR) Question Answering System** assists healthc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ehr-qa-system.git
-   cd ehr-qa-system
+   git clone "https://github.com/PriyamAryan21/EHR-QA-Chatbot/tree/main"
+   cd EHR-QA-Chatbot
    ```
 
 2. Create a virtual environment:
