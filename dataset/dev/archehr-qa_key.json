@@ -1,0 +1,1814 @@
+[
+    {
+        "case_id": "1",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "2",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "3",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "supplementary"
+            }
+        ]
+    },
+    {
+        "case_id": "4",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "5",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "6",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "7",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "28",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "29",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "30",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "8",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "28",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "29",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "30",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "31",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "32",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "33",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "34",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "35",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "36",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "37",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "38",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "39",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "40",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "41",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "42",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "43",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "44",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "45",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "46",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "47",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "48",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "49",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "50",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "51",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "52",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "53",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "54",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "9",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "10",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "28",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "29",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "30",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "31",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "32",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "11",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "12",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "13",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "14",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "15",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "16",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "28",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "29",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "30",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "17",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "28",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "29",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "30",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "31",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "32",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "33",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "34",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "35",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "36",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "37",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "38",
+                "relevance": "supplementary"
+            }
+        ]
+    },
+    {
+        "case_id": "18",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "supplementary"
+            }
+        ]
+    },
+    {
+        "case_id": "19",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "20",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "supplementary"
+            }
+        ]
+    }
+]
